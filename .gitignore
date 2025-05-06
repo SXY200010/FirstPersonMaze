@@ -1,0 +1,12 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Ll]ogs/
+[Oo]bj/
+UserSettings/
+MemoryCaptures/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
