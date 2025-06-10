@@ -6,6 +6,7 @@ public class RestartGame : MonoBehaviour
     // This method can be linked to a UI Button's OnClick event
     public void Restart()
     {
+        Debug.Log("Restart Clicked!");
         // Unpause the game (in case time was frozen)
         Time.timeScale = 1f;
 
